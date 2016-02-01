@@ -25,7 +25,9 @@
   "homepage": "https://github.com/rumtraubenuss/react-hn",
   "dependencies": {
     "fetch-jsonp": "^1.0.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "rx": "^4.0.7",
+    "whatwg-fetch": "^0.11.0"
   },
   "devDependencies": {
     "babel-loader": "^6.2.1",
